@@ -1,0 +1,16 @@
+body{
+    margin: 0;
+    background: grey;
+}
+a{
+    text-decoration: none;
+    color: inherit;
+}
+
+.banne .main_cover .logo {
+    background: url('../images/cover.png');
+    height: 465px;
+    background-size:cover;
+    background-position: center;
+    position: relative;
+}
