@@ -1,2 +1,2 @@
 # react-code
-code written during learning code
+code written during learning react
